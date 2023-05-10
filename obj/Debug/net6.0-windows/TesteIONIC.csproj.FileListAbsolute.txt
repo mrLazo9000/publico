@@ -1,0 +1,17 @@
+D:\projetos\fontes\TesteIONIC\bin\Debug\net6.0-windows\TesteIONIC.exe
+D:\projetos\fontes\TesteIONIC\bin\Debug\net6.0-windows\TesteIONIC.deps.json
+D:\projetos\fontes\TesteIONIC\bin\Debug\net6.0-windows\TesteIONIC.runtimeconfig.json
+D:\projetos\fontes\TesteIONIC\bin\Debug\net6.0-windows\TesteIONIC.dll
+D:\projetos\fontes\TesteIONIC\bin\Debug\net6.0-windows\TesteIONIC.pdb
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.csproj.AssemblyReference.cache
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.frmTesteIONIC.resources
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.csproj.GenerateResource.cache
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.AssemblyInfoInputs.cache
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.AssemblyInfo.cs
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.csproj.CoreCompileInputs.cache
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.dll
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\refint\TesteIONIC.dll
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.pdb
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\TesteIONIC.genruntimeconfig.cache
+D:\projetos\fontes\TesteIONIC\obj\Debug\net6.0-windows\ref\TesteIONIC.dll
